@@ -1,0 +1,13 @@
+body {
+  background: #a3a3a3;
+  margin: 0;
+  font-family: arial;
+  width: 100vw;
+  height: 100vh;
+  animation: bugfix infinite 1s;
+  -webkit-animation: bugfix infinite 1s;
+}
+
+.top{
+  margin-left:30px;
+}
