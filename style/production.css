@@ -1,0 +1,14 @@
+body {
+  background: #a3a3a3;
+  margin-left:0;
+  font-family: arial;
+  font-size:30px;
+  width: 100vw;
+  height: 100vh;
+  animation: bugfix infinite 1s;
+  -webkit-animation: bugfix infinite 1s;
+}
+
+h2{
+  border-bottom: 2px dotted black;
+}
